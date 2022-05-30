@@ -2,9 +2,8 @@
 <h3 align="center">R&D Engineer|Embedded System Design & Coding|Technology Enthusiast </h3>
  
 <p align="center">
-  <a href="https://github.com/princekanhaiya"><img src="https://readme-typing-svg.herokuapp.com?size=18&width=350&lines=I+design+simple+embedded+things+"></a>
+  <a href="https://github.com/princekanhaiya"><img src="https://readme-typing-svg.herokuapp.com?size=16&width=450&lines=I+design+complex+embedded+system+in+simple+way"></a>
 </p>
-
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -29,10 +28,10 @@
 
 
 ### Work experience
-- Mahindra & Mahindra
+- Mahindra & Mahindra Ltd.
 - KPIT Technologies Ltd.
-- Trainee at Ericsson India Pvt Ltd 
-- Intern at Vodafone India Ltd
+- Trainee at Ericsson India Pvt Ltd. 
+- Intern at Vodafone India Ltd.
 
 <hr>
 
