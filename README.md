@@ -28,6 +28,7 @@
 
 
 ### Work experience
+- Qualcomm India Pvt Ltd.
 - Mahindra & Mahindra Ltd.
 - KPIT Technologies Ltd.
 - Trainee at Ericsson India Pvt Ltd. 
